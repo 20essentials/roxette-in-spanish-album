@@ -1,0 +1,23 @@
+export const nameBand = 'ROXETTE - SPANISH';
+export const nameSongs = [
+	"UN DIA SIN TI", /*1*/
+	"HABLA EL CORAZÓN", /*2*/
+	"NO SE SI ES AMOR", /*3*/
+	"CRASH! BOOM! BANG!", /*4*/
+	"DIRECTAMENTE A TI", /*5*/
+	"CUANTO LO SIENTO", /*6*/
+	"TIMIDA", /*7*/
+	"COMO LA LLUVIA EN EL CRISTAL", /*8*/
+	"SOY UNA MUJER", /*9*/
+	"QUIERO SER COMO TÚ", /*10*/
+	"UNA REINA VA DETRÁS DE UN REY", /*11*/
+	"EL DÍA DEL AMOR", /*12*/
+	"ALGUIEN", /*13*/
+	"TU NO ME COMPRENDES", /*14*/
+	"DANGEROUS - ENGLISH", /*15*/
+	"WISH I COULD FLY - ENGLISH", /*16*/
+	"ALMOST UNREAL - ENGLISH", /*17*/
+	"DRESSED FOR SUCCESS - ENGLISH", /*18*/
+	"HOW DO YOU DO? - ENGLISH", /*19*/
+	"JOYRIDE - ENGLISH", /*20*/
+]
